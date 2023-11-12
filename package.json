@@ -1,0 +1,24 @@
+{
+  "name": "road_to_web3_week6",
+  "version": "1.0.0",
+  "description": "We're going to learn: - [ ] - How to use ScaffoldETH to create your DApp front-end in no time - [ ] - How to create a stacking Smart Contract using Solidity - [ ] - Transfer value from smart contracts to wallets and vice versa",
+  "main": "index.js",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/deafmice/road_to_web3_week6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/deafmice/road_to_web3_week6/issues"
+  },
+  "homepage": "https://gitlab.com/deafmice/road_to_web3_week6#readme"
+}
